@@ -3,3 +3,8 @@ FlubuCore.TeamsPlugin/Build/obj/
 FlubuCore.TeamsPlugin/FlubuCore.TeamsPlugin/bin/
 FlubuCore.TeamsPlugin/FlubuCore.TeamsPlugin/obj/
 FlubuCore.TeamsPlugin/.vs/
+Build/bin/
+Build/obj/Debug/
+Build/obj/
+FlubuCore.TeamsPlugin/obj/
+FlubuCore.TeamsPlugin/bin/
