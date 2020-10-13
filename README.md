@@ -13,4 +13,5 @@ context.Tasks().Teams().SendMessage("IncomingWebHookUrl", new TeamsMessage { Tex
 ```
 
 Plugin adds Following tasks:
+
 SendMessage - Sends a message via incoming teams webhook
