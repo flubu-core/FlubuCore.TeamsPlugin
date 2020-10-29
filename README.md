@@ -9,7 +9,7 @@ FlubuCore.Teams is a FlubuCore plugin that adds Microsoft teams specific tasks.
 Plugin adds teams tasks to FlubuCore ```ITaskContext``` interface: 
 
 ```C# 
-context.Tasks().Teams().SendMessage("IncomingWebHookUrl", new TeamsMessage { Text = "Hello world" });
+context.Tasks().Teams().SendMessage("IncomingWebHookUrl", new TeamsMessage { Text = "Hello world" }).Execute(context);
 ```
 
 Plugin adds Following tasks:
