@@ -1,4 +1,4 @@
-# FlubuCore.Octopus
+# FlubuCore.Teams
 
 [![NuGet](https://img.shields.io/nuget/v/FlubuCore.Teams.svg)](https://www.nuget.org/packages/FlubuCore.Teams/)
 [![Gitter](https://img.shields.io/gitter/room/FlubuCore/Lobby.svg)](https://gitter.im/FlubuCore/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
